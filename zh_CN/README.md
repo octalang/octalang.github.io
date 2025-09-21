@@ -2,7 +2,7 @@
 
 > 一个探索表达力语言、优雅工具和清晰抽象的创作空间。
 
-📖 [View this page in English](./index.en.md)
+📖 [View this page in English](./README.md)
 
 ---
 
